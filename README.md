@@ -92,20 +92,20 @@ java -cp out Main
 
 
 ## Screenshots
-<img width="1920" height="1080" alt="Screenshot (1220)" src="https://github.com/user-attachments/assets/c1375dd4-4b0a-41d4-b9c7-af54f60a967c" />
-<img width="1920" height="1080" alt="Screenshot (1219)" src="https://github.com/user-attachments/assets/8d1866a1-3c89-4d71-bda4-384b6cfd4154" />
-<img width="1920" height="1080" alt="Screenshot (1218)" src="https://github.com/user-attachments/assets/d922b62c-20db-42de-8a18-ecca50e770b2" />
-<img width="1920" height="1080" alt="Screenshot (1217)" src="https://github.com/user-attachments/assets/1cc36fda-ad9b-42ca-b409-f30c6faf1874" />
-<img width="1920" height="1080" alt="Screenshot (1216)" src="https://github.com/user-attachments/assets/6a432c85-0a2a-41a2-aad1-b97383ca1e1b" />
-<img width="1920" height="1080" alt="Screenshot (1215)" src="https://github.com/user-attachments/assets/7607fb81-54cd-4903-9fcf-2cb5fa92e367" />
-<img width="1920" height="1080" alt="Screenshot (1214)" src="https://github.com/user-attachments/assets/8ad2344b-2985-4aba-8773-7700973fdc3e" />
-<img width="1920" height="1080" alt="Screenshot (1213)" src="https://github.com/user-attachments/assets/524512f0-6083-4b8b-8653-87c435a69fd4" />
-<img width="1920" height="1080" alt="Screenshot (1212)" src="https://github.com/user-attachments/assets/639def7c-f002-4c70-8123-4aa764133fc3" />
-<img width="1920" height="1080" alt="Screenshot (1211)" src="https://github.com/user-attachments/assets/c32919ac-b353-4b3c-886d-de2de678ce6c" />
-<img width="1920" height="1080" alt="Screenshot (1210)" src="https://github.com/user-attachments/assets/77e5dd9c-f1fc-4a4c-9a44-51ac18cc02f8" />
-<img width="1920" height="1080" alt="Screenshot (1209)" src="https://github.com/user-attachments/assets/9b37e3ca-f773-4cff-ad54-3ac224295c2b" />
-<img width="1920" height="1080" alt="Screenshot (1208)" src="https://github.com/user-attachments/assets/c8c150c1-b465-486c-926a-aa3531767d70" />
-<img width="1920" height="1080" alt="Screenshot (1207)" src="https://github.com/user-attachments/assets/3f28336f-50f1-478d-95d5-97cd6abf4cbe" />
+<img width="1920" height="1080" alt="Screenshot (1220)" src="https://github.com/user-attachments/assets/5b72916e-7b59-4269-ae5e-74e99b8961f5" />
+<img width="1920" height="1080" alt="Screenshot (1219)" src="https://github.com/user-attachments/assets/b599f95c-f42a-4c59-96bc-3909453736c4" />
+<img width="1920" height="1080" alt="Screenshot (1218)" src="https://github.com/user-attachments/assets/5a5bb8d1-36fd-4159-81b7-92585a0813aa" />
+<img width="1920" height="1080" alt="Screenshot (1217)" src="https://github.com/user-attachments/assets/0e75761b-10da-4e8d-8803-8d68f079fe66" />
+<img width="1920" height="1080" alt="Screenshot (1216)" src="https://github.com/user-attachments/assets/1e209e93-4531-41da-8bf2-3cee1b388689" />
+<img width="1920" height="1080" alt="Screenshot (1215)" src="https://github.com/user-attachments/assets/b7343311-82a0-4f3c-9f8e-51b17300297c" />
+<img width="1920" height="1080" alt="Screenshot (1214)" src="https://github.com/user-attachments/assets/47a52c41-a568-4b25-8d8b-d85eb21c2d3e" />
+<img width="1920" height="1080" alt="Screenshot (1213)" src="https://github.com/user-attachments/assets/3e33afbf-ec1d-4a18-919c-15293314c45b" />
+<img width="1920" height="1080" alt="Screenshot (1212)" src="https://github.com/user-attachments/assets/63d9cf40-9145-4594-8eee-981b966e0725" />
+<img width="1920" height="1080" alt="Screenshot (1211)" src="https://github.com/user-attachments/assets/79160056-972a-4350-90f6-c15c866147c6" />
+<img width="1920" height="1080" alt="Screenshot (1210)" src="https://github.com/user-attachments/assets/b9bd57d1-d014-455d-ba9e-096d208763d5" />
+<img width="1920" height="1080" alt="Screenshot (1209)" src="https://github.com/user-attachments/assets/c01659cb-f423-4026-9b1d-cbf1ecdb52ae" />
+<img width="1920" height="1080" alt="Screenshot (1208)" src="https://github.com/user-attachments/assets/85da1ed9-ef15-4a29-81fa-a00d1f8331a6" />
+<img width="1920" height="1080" alt="Screenshot (1207)" src="https://github.com/user-attachments/assets/85729fbf-6810-4174-95d9-f8c801ab16bf" />
 
 
 
